@@ -1,6 +1,6 @@
-# nocode-test-repository
+# nocode-notest-repository
 
-This is a respository of test scripts for the [nocode framework](https://github.com/kelseyhightower/nocode)
+This is a respository of test scripts for the [No Code framework](https://github.com/kelseyhightower/nocode)
 
 ## Structure
 
