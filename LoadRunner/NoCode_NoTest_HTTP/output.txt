@@ -1,0 +1,17 @@
+Virtual User Script started at : 2/9/2018 5:02:23 PM
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.53.0 for Windows 10; build 1203 (Feb 09 2018 19:13:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\Users\brian.wilson\Documents\VuGen\Scripts\NoCode_NoTest_HTTP\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\brian.wilson\Documents\VuGen\Scripts\NoCode_NoTest_HTTP
+-IC:\Program Files (x86)\HP\Virtual User Generator\include
+-ec:\users\brian.wilson\documents\vugen\scripts\nocode_notest_http\\logfile.log
+c:\users\brian.wilson\documents\vugen\scripts\nocode_notest_http\\combined_NoCode_NoTest_HTTP.c
+c:\users\brian.wilson\documents\vugen\scripts\nocode_notest_http\\pre_cci.c
